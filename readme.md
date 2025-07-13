@@ -49,6 +49,14 @@ Exploratory Data Analysis on a global population dataset.
 
 ---
 
+### 🩺 [Life Expectancy Prediction – Healthcare](./healthcaremodel)
+Predicting life expectancy based on health, economic, and demographic indicators like BMI, healthcare expenditure, GDP, and schooling.  
+**Model Used:** Linear Regression  
+**R² Score:** ~0.88  
+**Insight:** Shows strong impact of education and health spending on life expectancy
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python (Pandas, NumPy, Scikit-learn, XGBoost)
@@ -68,6 +76,5 @@ Exploratory Data Analysis on a global population dataset.
 
 - 🔗 [GitHub](https://github.com/ambikaspace)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ambika-rajpurohit-0b415b365/)
-
 ---
 
